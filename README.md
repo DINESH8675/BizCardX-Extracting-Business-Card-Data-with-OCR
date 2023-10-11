@@ -1,4 +1,4 @@
-BizCardX-Extracting Business Card Data with OCR
+BizCardX-Extracting Business Card Data with OCR\n
 
 
 Bizcard Extraction is a Python application built with Streamlit, EasyOCR, OpenCV, regex function, and MySQL database.
